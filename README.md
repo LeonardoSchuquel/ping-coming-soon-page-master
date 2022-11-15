@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: (https://leonardoschuquel.github.io/interactive-rating-component-main/)
+- Live Site URL: (https://leonardoschuquel.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
